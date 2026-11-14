@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Cyvern: The Dragon Weapons
+Comment=Native port of the 1998 arcade game (requires your own cyvern.zip and skns.zip)
+Exec=cyvern %f
+Icon=cyvern
+Terminal=false
+Categories=Game;ArcadeGame;
+MimeType=application/zip;
